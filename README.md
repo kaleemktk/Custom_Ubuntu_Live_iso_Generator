@@ -1,4 +1,4 @@
-# Custom_Ubuntu_Live_iso_Generator
+# Custom_Ubuntu22_Live_iso_Generator
 Modify Ubuntu Live Casper Image
 Tested with Ubuntu Versions 22.xx.xx
 Script entry point is ./main.sh <br>
